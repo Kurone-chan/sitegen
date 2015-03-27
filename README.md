@@ -1,2 +1,2 @@
 # SiteGen
-## A simple tool to generate website projects
+A simple tool to generate website projects
